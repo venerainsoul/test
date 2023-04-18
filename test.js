@@ -1,23 +1,7 @@
 const test = "test";
 alert("Привіт!")
-ff
-ff
-
-ff
-ff
-ff
-ff
-f
-ff
-f
-f
-f
-ff
-f
-f
-f
-ff
-f
-f
+homework
+for
+18.04.2023
 
 blablabla
